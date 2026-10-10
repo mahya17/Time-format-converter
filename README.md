@@ -33,6 +33,3 @@ Hours: 9:00 AM to 5:00 PM
 - Python
 - `re`
 - `pytest`
-
-## Course
-Harvard CS50's Introduction to Programming with Python (CS50P).
